@@ -1,8 +1,8 @@
 SimpleBlogPage is a mediawiki extension developed by 1f604 based on BlogPage. 
 
-Github link: https://github.com/1f604/SimpleBlogPage
+Github link: [https://github.com/1f604/SimpleBlogPage](https://github.com/1f604/SimpleBlogPage)
 
-Mediawiki link: https://www.mediawiki.org/wiki/Extension:SimpleBlogPage
+Mediawiki link: [https://www.mediawiki.org/wiki/Extension:SimpleBlogPage](https://www.mediawiki.org/wiki/Extension:SimpleBlogPage)
 
 I couldn't figure out how to upload my extension to mediawiki so I uploaded it here on my github. 
 
