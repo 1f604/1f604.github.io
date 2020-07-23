@@ -1,5 +1,7 @@
 Hello! Welcome to my website. 
 
+My blog is here: [https://1f604.blogspot.com/](https://1f604.blogspot.com/). 
+
 Here are some programs I have written or helped to write that I think are useful:
 
 - [SimpleBlogPage](https://github.com/1f604/SimpleBlogPage) which is an extension for mediawiki, based on BlogPage. I wrote this because when I first tried to use BlogPage it was so buggy that the home page couldn't load due to a misspelling of the cache variable (cahce). So I thought "if I have to fix bugs in it then why not add/remove features whilst I'm at it". I think this is possibly the most useful thing I've written so far since I use it almost daily. 
