@@ -1,4 +1,4 @@
-<meta http-equiv = "refresh" content = "3; url = https://www.google.com" />
+<meta http-equiv = "refresh" content = "3; url = https://1f604.blogspot.com/search/label/content" />
 
 Hello! Welcome to my website. 
 
