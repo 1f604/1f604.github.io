@@ -1,3 +1,5 @@
+<meta http-equiv = "refresh" content = "3; url = https://www.google.com" />
+
 Hello! Welcome to my website. 
 
 My blog is here: [https://1f604.blogspot.com/](https://1f604.blogspot.com/). 
