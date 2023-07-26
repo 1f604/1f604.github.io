@@ -1,0 +1,19 @@
+$ sha256sum x.zip
+22ce9e995fe7fc70c0c5798f484b6fbd7b4d8aa5e1cac8884de7f6864496f2a1  x.zip
+$ sha512sum x.zip
+1dcb5fbbac077e7be53da400f3b462d142c25cb418cbe526fa2e05c248b7dad68c2f69cb2e22c26bc95ac5814399b05935f14fd2b4e0e3071273a9279ef19d88  x.zip
+
+$ cat x.zip | openssl sha256
+(stdin)= 22ce9e995fe7fc70c0c5798f484b6fbd7b4d8aa5e1cac8884de7f6864496f2a1
+$ cat x.zip | openssl sha512
+(stdin)= 1dcb5fbbac077e7be53da400f3b462d142c25cb418cbe526fa2e05c248b7dad68c2f69cb2e22c26bc95ac5814399b05935f14fd2b4e0e3071273a9279ef19d88
+$ cat x.zip | openssl sha3-512
+(stdin)= 038d0e5abac7b144cd92dd2f585e86be97b3b157fe89609d94e2f91e6a7a2349c5d95eb2888a7e629de12c5891acfdaad4c64bfa8f980f7adef96491169baa8e
+$ cat x.zip | openssl sha3-256
+(stdin)= d6ccaff330421b4977215d49bffad975bd53418ebef1f5f3700e033a26aa5947
+$ cat x.zip | openssl blake2b512
+(stdin)= d81f4b6e45b627f81fae063ac042f7d5ae3efa00216a3b573ae2d0f6c85181a85900766df972504047bf9db5d4ad0fd9c2f4cd1f2b146861402989c0b022a3f7
+$ cat x.zip | openssl blake2s256
+(stdin)= 18e09f475f0d594db7c668fa0aff56c0ec8b0c55ce988c80243e10bdba1ee7bc
+
+
